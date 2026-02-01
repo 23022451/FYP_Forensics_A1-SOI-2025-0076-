@@ -1,0 +1,4 @@
+PNG:IEND -- Fake PNG end marker (test appended data detection)
+This is test data appended after PNG end marker
+PK -- ZIP signature (tests embedded ZIP detection)
+Additional hidden content for testing

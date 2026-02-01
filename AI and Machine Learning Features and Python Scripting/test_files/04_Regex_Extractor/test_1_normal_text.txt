@@ -1,0 +1,7 @@
+Simple text without any special patterns.
+Just regular content.
+No emails, IPs, or URLs here.
+Normal everyday text.
+Person name: John Smith
+Phone: 555-1234
+Random numbers: 123 456 789

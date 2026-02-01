@@ -1,0 +1,9 @@
+2024-01-15 02:00:00 [ERROR] Failed login attempt
+2024-01-15 02:00:15 [ERROR] Failed login attempt
+2024-01-15 02:00:30 [ERROR] Failed login attempt
+2024-01-15 02:00:45 [ERROR] Failed login attempt
+2024-01-15 02:01:00 [WARNING] Multiple failed logins detected
+2024-01-15 02:01:15 [ERROR] Unauthorized access to admin panel
+2024-01-15 02:02:00 [CRITICAL] SQL injection attempt detected
+2024-01-15 02:02:30 [CRITICAL] Malware signature detected
+2024-01-15 02:03:00 [ERROR] Suspicious privilege escalation attempt

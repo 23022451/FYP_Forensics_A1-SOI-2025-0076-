@@ -1,0 +1,9 @@
+2024-01-15 14:30:00 [WARNING] Unusual network activity detected
+2024-01-15 14:30:30 [WARNING] High CPU usage detected
+2024-01-15 14:31:00 [INFO] Process creating suspicious files
+2024-01-15 14:31:30 [WARNING] Registry modification detected
+2024-01-15 14:32:00 [WARNING] Unsigned driver loaded
+2024-01-15 14:32:30 [ERROR] Connection to unknown IP address
+2024-01-15 14:33:00 [WARNING] Service disabled: Windows Defender
+2024-01-15 14:33:30 [WARNING] Firewall rule deleted
+2024-01-15 14:34:00 [ERROR] Persistence mechanism detected

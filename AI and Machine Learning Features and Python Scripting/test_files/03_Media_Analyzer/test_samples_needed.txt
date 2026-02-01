@@ -1,0 +1,26 @@
+Media Analyzer Test Samples
+
+This folder should contain actual image/video files for testing.
+
+Sample test cases:
+1. Normal JPEG - clean image with standard metadata
+2. PNG with steganography - image with hidden data embedded
+3. JPEG with appended data - malicious file with executable attached
+
+The analyzer will test:
+- Steganography detection (7 methods)
+- Hidden content detection (archives, executables)
+- Tool signature detection (steghide, OutGuess, OpenStego)
+- Color distribution anomalies
+- File entropy analysis
+- Appended data after image markers
+- Metadata extraction
+- OCR text extraction
+- Video frame analysis
+- PDF analysis
+
+To generate test files:
+- Use legitimate image/video files as base
+- For steganography: use steghide, OutGuess, or manual LSB embedding
+- For appended data: concatenate ZIP/EXE after image data
+- For normal: just clean photos/screenshots

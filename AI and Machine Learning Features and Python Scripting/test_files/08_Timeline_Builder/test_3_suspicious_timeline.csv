@@ -1,0 +1,10 @@
+timestamp,event_type,description,source_file
+2024-01-15 14:00:00,FILE_ACCESS,User accessed documents,filesystem
+2024-01-15 14:30:00,PROCESS_EXECUTION,Started update.exe,registry
+2024-01-15 15:00:00,FILE_CREATE,Downloaded update.zip,filesystem
+2024-01-15 15:15:00,FILE_MODIFY,Extracted files,filesystem
+2024-01-15 15:30:00,PROCESS_EXECUTION,Executed unknown.exe,registry
+2024-01-15 15:45:00,REGISTRY_MODIFY,Changed Windows Defender settings,registry
+2024-01-15 16:00:00,NETWORK_CONNECTION,Connected to external IP 123.45.67.89,network
+2024-01-15 16:15:00,FILE_DELETE,Cleared temporary files,filesystem
+2024-01-15 16:30:00,FILE_CREATE,Created backup file,filesystem

@@ -1,0 +1,4 @@
+This is a normal document file.
+It contains regular text content.
+No suspicious indicators here.
+Just regular document content for testing.

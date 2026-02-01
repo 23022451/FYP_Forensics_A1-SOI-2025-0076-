@@ -1,0 +1,8 @@
+2024-01-15 15:23:01 [INFO] Windows Update service started
+2024-01-15 15:23:15 [INFO] Checking for updates...
+2024-01-15 15:24:30 [INFO] Updates available
+2024-01-15 15:25:00 [WARNING] User disabled Windows Defender
+2024-01-15 15:26:45 [INFO] Registry modified: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion
+2024-01-15 15:27:12 [WARNING] Suspicious network connection: 10.0.0.50:8080
+2024-01-15 15:28:00 [INFO] Task scheduled: obfuscated_script.bat
+2024-01-15 15:29:33 [CRITICAL] DLL injection detected in explorer.exe
