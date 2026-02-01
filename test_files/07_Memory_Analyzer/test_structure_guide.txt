@@ -1,0 +1,24 @@
+Memory Analyzer Test Data
+
+This is a placeholder for memory dump analysis.
+Real memory dumps are binary files and need to be:
+1. Captured from actual systems
+2. From forensic investigations
+3. From Volatility research datasets
+4. From public memory dump collections
+
+Example structure of memory artifacts to detect:
+- Shellcode: \x90\x90\x90\xcc (NOP sled + int3)
+- Injected PE headers: MZ executable signatures
+- Suspicious strings: powershell, cmd, psexec, etc.
+- Hook patterns: jmp instructions at function prologues
+- Kernel objects: hidden process structures
+- Network indicators: socket connections, ports
+- File paths: evidence of file access
+- Registry paths: HKEY_LOCAL_MACHINE modifications
+- API calls: CreateRemoteThread, VirtualAllocEx patterns
+
+Test files should be:
+- At least 1MB in size
+- Properly formatted memory dumps
+- Include various memory regions (stack, heap, code)

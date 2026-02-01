@@ -1,0 +1,19 @@
+CONFIDENTIAL - PASSWORD DATABASE
+================================
+Username: admin
+Password: SuperSecret123!
+API_Key: sk_live_51234567890abcdef
+
+Database Credentials:
+Server: db.internal.company.com
+User: root
+Pass: P@ssw0rd!Secret
+
+Private Key:
+-----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEA2Z3qX2BTLS39R3wvUL3p+JF2J5Y9Z7F3X1C4Z8B9...
+-----END RSA PRIVATE KEY-----
+
+AWS Credentials:
+AKIA4MYJXFH7E2C8VQYZ
+aws_secret_access_key=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY

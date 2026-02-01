@@ -1,0 +1,24 @@
+Contact Information Found:
+Email: suspicious.user@gmail.com
+Email: admin@company.com
+Phone: (555) 123-4567
+Phone: 555-987-6543
+
+Website URLs:
+Visit https://example.com for more info
+Check http://malicious-site.net for details
+Download from https://github.com/user/repo
+
+IPv4 Addresses:
+Server at 192.168.1.1
+Database: 10.0.0.50
+Router: 172.16.0.1
+
+MAC Addresses:
+Device: 00:1A:2B:3C:4D:5E
+WiFi: aa:bb:cc:dd:ee:ff
+
+Domain Names:
+example.com
+malicious-domain.net
+suspicious-site.org

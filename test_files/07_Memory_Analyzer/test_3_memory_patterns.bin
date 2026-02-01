@@ -1,0 +1,11 @@
+Fake memory dump header for testing
+Contains patterns for analysis
+MZ - executable signature
+NOP NOP INT3 - shellcode signature
+powershell.exe - suspicious process
+cmd.exe - command shell
+psexec - remote execution tool
+lsass.exe - credential theft target
+CreateRemoteThread - code injection API
+HKEY_LOCAL_MACHINE\Run - persistence registry
+Test data for memory analysis and pattern matching

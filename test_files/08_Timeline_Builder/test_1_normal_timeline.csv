@@ -1,0 +1,8 @@
+timestamp,event_type,description,source_file
+2024-01-15 08:00:00,FILE_ACCESS,User opened document.txt,filesystem
+2024-01-15 08:15:00,FILE_CREATE,Created report.xlsx,filesystem
+2024-01-15 09:00:00,FILE_MODIFY,Modified settings.ini,filesystem
+2024-01-15 10:00:00,FILE_DELETE,Deleted temp.log,filesystem
+2024-01-15 10:30:00,PROCESS_EXECUTION,User launched notepad.exe,registry
+2024-01-15 11:00:00,NETWORK_CONNECTION,Connected to 8.8.8.8:53,network
+2024-01-15 12:00:00,FILE_ACCESS,Opened photo.jpg,filesystem

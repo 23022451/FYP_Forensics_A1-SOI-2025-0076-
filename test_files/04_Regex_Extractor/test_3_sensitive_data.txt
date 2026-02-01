@@ -1,0 +1,23 @@
+Sensitive Data Found:
+
+Credit Card: 4532-1234-5678-9010
+Credit Card: 5425 1234 5678 9012
+
+SSN: 123-45-6789
+SSN: 987-65-4321
+
+Hash Values:
+MD5: d41d8cd98f00b204e9800998ecf8427e
+SHA1: aaf4c61ddcc5e8a2dabede0f3b482cd9aea9434d
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Bitcoin Address: 1A1z7agoat8Bt6L3h2ULaV4Sq3XcXf7z7
+Bitcoin Address: 3J98t1WpEZ73CNmYviecrnyiWrnqRhWNLy
+
+AWS Key: AKIA3MYJXFH7E2C8VQYZ
+Private Key: -----BEGIN RSA PRIVATE KEY-----
+
+CVV Code: 123
+Registry Key: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\Run
+Windows Path: C:\Users\Admin\Documents\passwords.txt
+Linux Path: /etc/shadow

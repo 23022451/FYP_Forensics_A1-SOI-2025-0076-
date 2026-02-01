@@ -1,0 +1,9 @@
+2024-01-15 02:34:12 [ERROR] Failed login attempt from 192.168.1.50
+2024-01-15 02:34:25 [ERROR] Failed login attempt from 192.168.1.50
+2024-01-15 02:34:38 [ERROR] Failed login attempt from 192.168.1.50
+2024-01-15 02:35:01 [WARNING] Brute force attack detected - 15 attempts in 2 minutes
+2024-01-15 02:35:45 [CRITICAL] SQL injection attempt: SELECT * FROM users WHERE id=1 OR 1=1
+2024-01-15 02:36:12 [CRITICAL] Unauthorized file access: /etc/passwd
+2024-01-15 02:36:33 [ERROR] Privilege escalation attempt detected
+2024-01-15 02:37:00 [CRITICAL] Malware uploaded: shell.php
+2024-01-15 02:37:15 [WARNING] Suspicious process: powershell -noexit -command cmd.exe
